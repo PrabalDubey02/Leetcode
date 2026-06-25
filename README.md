@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PrabalDubey02/Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/PrabalDubey02/Leetcode/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PrabalDubey02/Leetcode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PrabalDubey02/Leetcode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -65,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PrabalDubey02/Leetcode/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PrabalDubey02/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
