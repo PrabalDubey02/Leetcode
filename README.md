@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrabalDubey02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PrabalDubey02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0414-third-maximum-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PrabalDubey02/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PrabalDubey02/Leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0189-rotate-array) |
 ## Enumeration
 |  |
 | ------- |
