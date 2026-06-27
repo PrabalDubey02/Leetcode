@@ -6,10 +6,11 @@ class Solution {
         long tmax = Long.MIN_VALUE;
 
         for (int num : nums) {
-
-            // Ignore duplicates
+            
             if (num == max || num == smax || num == tmax)
                 continue;
+
+           
 
             if (num > max) {
                 tmax = smax;
@@ -25,6 +26,6 @@ class Solution {
             }
         }
 
-        return tmax == Long.MIN_VALUE ? (int) max : (int) tmax;
+        return tmax== Long.MIN_VALUE ? (int) max : (int) tmax;
     }
 }
