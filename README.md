@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PrabalDubey02/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrabalDubey02/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PrabalDubey02/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrabalDubey02/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -25,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/PrabalDubey02/Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/PrabalDubey02/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -42,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PrabalDubey02/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -92,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrabalDubey02/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
