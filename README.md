@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/PrabalDubey02/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/PrabalDubey02/Leetcode/tree/master/0278-first-bad-version) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0912-sort-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/PrabalDubey02/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
