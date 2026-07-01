@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PrabalDubey02/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/PrabalDubey02/Leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/PrabalDubey02/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/PrabalDubey02/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrabalDubey02/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/PrabalDubey02/Leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/PrabalDubey02/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/PrabalDubey02/Leetcode/tree/master/0506-relative-ranks) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/PrabalDubey02/Leetcode/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/PrabalDubey02/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0912-sort-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/PrabalDubey02/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrabalDubey02/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Matrix
 |  |
@@ -207,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrabalDubey02/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/PrabalDubey02/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
