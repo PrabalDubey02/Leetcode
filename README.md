@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrabalDubey02/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PrabalDubey02/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PrabalDubey02/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrabalDubey02/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrabalDubey02/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/PrabalDubey02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/PrabalDubey02/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/PrabalDubey02/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/PrabalDubey02/Leetcode/tree/master/0506-relative-ranks) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PrabalDubey02/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/PrabalDubey02/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/PrabalDubey02/Leetcode/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrabalDubey02/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrabalDubey02/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
