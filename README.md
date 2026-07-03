@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PrabalDubey02/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrabalDubey02/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/PrabalDubey02/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrabalDubey02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PrabalDubey02/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PrabalDubey02/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/PrabalDubey02/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PrabalDubey02/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0867-transpose-matrix) |
