@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PrabalDubey02/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/PrabalDubey02/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/PrabalDubey02/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0414-third-maximum-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/PrabalDubey02/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PrabalDubey02/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/PrabalDubey02/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [2906-construct-product-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrabalDubey02/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/PrabalDubey02/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
