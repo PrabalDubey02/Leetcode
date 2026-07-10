@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PrabalDubey02/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/PrabalDubey02/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrabalDubey02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PrabalDubey02/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/PrabalDubey02/Leetcode/tree/master/0231-power-of-two) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PrabalDubey02/Leetcode/tree/master/0078-subsets) |
 | [0306-additive-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0306-additive-number) |
 ## Simulation
 |  |
