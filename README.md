@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrabalDubey02/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PrabalDubey02/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/PrabalDubey02/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/PrabalDubey02/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrabalDubey02/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PrabalDubey02/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/PrabalDubey02/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/PrabalDubey02/Leetcode/tree/master/0645-set-mismatch) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0313-super-ugly-number) |
 | [0509-fibonacci-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrabalDubey02/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/PrabalDubey02/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0179-largest-number) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/PrabalDubey02/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrabalDubey02/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -234,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PrabalDubey02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0541-reverse-string-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -257,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/PrabalDubey02/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrabalDubey02/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/PrabalDubey02/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -325,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrabalDubey02/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PrabalDubey02/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/PrabalDubey02/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
