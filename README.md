@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrabalDubey02/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PrabalDubey02/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/PrabalDubey02/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PrabalDubey02/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrabalDubey02/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrabalDubey02/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrabalDubey02/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/PrabalDubey02/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrabalDubey02/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/PrabalDubey02/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrabalDubey02/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/PrabalDubey02/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PrabalDubey02/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrabalDubey02/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/PrabalDubey02/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PrabalDubey02/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrabalDubey02/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/PrabalDubey02/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/PrabalDubey02/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/PrabalDubey02/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/2906-construct-product-matrix) |
+| [3312-sorted-gcd-pair-queries](https://github.com/PrabalDubey02/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -295,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/PrabalDubey02/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrabalDubey02/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/PrabalDubey02/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/PrabalDubey02/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -427,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrabalDubey02/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/PrabalDubey02/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrabalDubey02/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/PrabalDubey02/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PrabalDubey02/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrabalDubey02/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrabalDubey02/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -434,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/PrabalDubey02/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
