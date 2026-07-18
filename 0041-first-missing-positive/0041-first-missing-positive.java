@@ -8,7 +8,7 @@ class Solution {
 
     public int firstMissingPositive(int[] arr) {
 
-        int i = 0, n = arr.length; // numbers should be in range 1 to n
+        int i = 0, n = arr.length; 
 
         while (i < n) {
             if (arr[i] <= 0 || arr[i] > n || arr[i] == i + 1 || arr[i] == arr[arr[i] - 1]) {
