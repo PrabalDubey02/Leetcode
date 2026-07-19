@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/PrabalDubey02/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PrabalDubey02/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0922-sort-array-by-parity-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/PrabalDubey02/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/PrabalDubey02/Leetcode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/PrabalDubey02/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/PrabalDubey02/Leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/PrabalDubey02/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/PrabalDubey02/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrabalDubey02/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PrabalDubey02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrabalDubey02/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
