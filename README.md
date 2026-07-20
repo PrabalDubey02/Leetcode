@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/PrabalDubey02/Leetcode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/PrabalDubey02/Leetcode/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/PrabalDubey02/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/PrabalDubey02/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/PrabalDubey02/Leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/PrabalDubey02/Leetcode/tree/master/0645-set-mismatch) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0463-island-perimeter](https://github.com/PrabalDubey02/Leetcode/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/PrabalDubey02/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrabalDubey02/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/PrabalDubey02/Leetcode/tree/master/0463-island-perimeter) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrabalDubey02/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PrabalDubey02/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrabalDubey02/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/PrabalDubey02/Leetcode/tree/master/0463-island-perimeter) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrabalDubey02/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PrabalDubey02/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Design
