@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PrabalDubey02/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/PrabalDubey02/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/PrabalDubey02/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/PrabalDubey02/Leetcode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/PrabalDubey02/Leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/PrabalDubey02/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/PrabalDubey02/Leetcode/tree/master/0704-binary-search) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/PrabalDubey02/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PrabalDubey02/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/PrabalDubey02/Leetcode/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/PrabalDubey02/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0509-fibonacci-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PrabalDubey02/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0939-minimum-area-rectangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0939-minimum-area-rectangle) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/PrabalDubey02/Leetcode/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/PrabalDubey02/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0313-super-ugly-number) |
+| [0486-predict-the-winner](https://github.com/PrabalDubey02/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrabalDubey02/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PrabalDubey02/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PrabalDubey02/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrabalDubey02/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PrabalDubey02/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/PrabalDubey02/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/PrabalDubey02/Leetcode/tree/master/1922-count-good-numbers) |
 ## Number Theory
@@ -495,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0939-minimum-area-rectangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0939-minimum-area-rectangle) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/PrabalDubey02/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
