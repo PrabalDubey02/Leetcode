@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PrabalDubey02/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/PrabalDubey02/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/PrabalDubey02/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/PrabalDubey02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/PrabalDubey02/Leetcode/tree/master/0078-subsets) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrabalDubey02/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/PrabalDubey02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrabalDubey02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PrabalDubey02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/PrabalDubey02/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PrabalDubey02/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
