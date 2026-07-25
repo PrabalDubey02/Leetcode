@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PrabalDubey02/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/PrabalDubey02/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0137-single-number-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/PrabalDubey02/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/PrabalDubey02/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/PrabalDubey02/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/PrabalDubey02/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PrabalDubey02/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/PrabalDubey02/Leetcode/tree/master/0242-valid-anagram) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/PrabalDubey02/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/PrabalDubey02/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PrabalDubey02/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/PrabalDubey02/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PrabalDubey02/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0202-happy-number) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/PrabalDubey02/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/PrabalDubey02/Leetcode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/PrabalDubey02/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrabalDubey02/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
