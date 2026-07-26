@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PrabalDubey02/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/PrabalDubey02/Leetcode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/PrabalDubey02/Leetcode/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PrabalDubey02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/PrabalDubey02/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/PrabalDubey02/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PrabalDubey02/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/PrabalDubey02/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/PrabalDubey02/Leetcode/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PrabalDubey02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/PrabalDubey02/Leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/PrabalDubey02/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0912-sort-an-array) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/PrabalDubey02/Leetcode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/PrabalDubey02/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PrabalDubey02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PrabalDubey02/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0939-minimum-area-rectangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [1922-count-good-numbers](https://github.com/PrabalDubey02/Leetcode/tree/master/1922-count-good-numbers) |
