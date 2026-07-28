@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/PrabalDubey02/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PrabalDubey02/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PrabalDubey02/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/PrabalDubey02/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrabalDubey02/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/PrabalDubey02/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/PrabalDubey02/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrabalDubey02/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrabalDubey02/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
