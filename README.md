@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/PrabalDubey02/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/PrabalDubey02/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PrabalDubey02/Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/PrabalDubey02/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/PrabalDubey02/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/PrabalDubey02/Leetcode/tree/master/0242-valid-anagram) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrabalDubey02/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/PrabalDubey02/Leetcode/tree/master/0071-simplify-path) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrabalDubey02/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
 |  |
