@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/PrabalDubey02/Leetcode/tree/master/0645-set-mismatch) |
+| [0869-reordered-power-of-2](https://github.com/PrabalDubey02/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0888-fair-candy-swap](https://github.com/PrabalDubey02/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PrabalDubey02/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0939-minimum-area-rectangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0939-minimum-area-rectangle) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/PrabalDubey02/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrabalDubey02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/PrabalDubey02/Leetcode/tree/master/0645-set-mismatch) |
+| [0869-reordered-power-of-2](https://github.com/PrabalDubey02/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0888-fair-candy-swap](https://github.com/PrabalDubey02/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PrabalDubey02/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrabalDubey02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0869-reordered-power-of-2](https://github.com/PrabalDubey02/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PrabalDubey02/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0939-minimum-area-rectangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [1922-count-good-numbers](https://github.com/PrabalDubey02/Leetcode/tree/master/1922-count-good-numbers) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PrabalDubey02/Leetcode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/PrabalDubey02/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0869-reordered-power-of-2](https://github.com/PrabalDubey02/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PrabalDubey02/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrabalDubey02/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0869-reordered-power-of-2](https://github.com/PrabalDubey02/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [1291-sequential-digits](https://github.com/PrabalDubey02/Leetcode/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/PrabalDubey02/Leetcode/tree/master/1952-three-divisors) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrabalDubey02/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
