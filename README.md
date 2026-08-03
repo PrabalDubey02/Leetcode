@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/PrabalDubey02/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrabalDubey02/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/PrabalDubey02/Leetcode/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/PrabalDubey02/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PrabalDubey02/Leetcode/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PrabalDubey02/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0939-minimum-area-rectangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0939-minimum-area-rectangle) |
+| [1406-stone-game-iii](https://github.com/PrabalDubey02/Leetcode/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/PrabalDubey02/Leetcode/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/PrabalDubey02/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrabalDubey02/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/PrabalDubey02/Leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrabalDubey02/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/PrabalDubey02/Leetcode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PrabalDubey02/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/PrabalDubey02/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -613,8 +616,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/PrabalDubey02/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PrabalDubey02/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/PrabalDubey02/Leetcode/tree/master/1406-stone-game-iii) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/PrabalDubey02/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/PrabalDubey02/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
