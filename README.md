@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PrabalDubey02/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/PrabalDubey02/Leetcode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/PrabalDubey02/Leetcode/tree/master/0506-relative-ranks) |
+| [0605-can-place-flowers](https://github.com/PrabalDubey02/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrabalDubey02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/PrabalDubey02/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/PrabalDubey02/Leetcode/tree/master/0645-set-mismatch) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/PrabalDubey02/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/PrabalDubey02/Leetcode/tree/master/0605-can-place-flowers) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/PrabalDubey02/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrabalDubey02/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrabalDubey02/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
