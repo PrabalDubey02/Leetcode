@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/PrabalDubey02/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/PrabalDubey02/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/PrabalDubey02/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/PrabalDubey02/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/PrabalDubey02/Leetcode/tree/master/0231-power-of-two) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PrabalDubey02/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/PrabalDubey02/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PrabalDubey02/Leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/PrabalDubey02/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PrabalDubey02/Leetcode/tree/master/0231-power-of-two) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/PrabalDubey02/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/PrabalDubey02/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/PrabalDubey02/Leetcode/tree/master/0089-gray-code) |
 | [0306-additive-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0306-additive-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
