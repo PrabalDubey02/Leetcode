@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PrabalDubey02/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PrabalDubey02/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PrabalDubey02/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/PrabalDubey02/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PrabalDubey02/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/PrabalDubey02/Leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/PrabalDubey02/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/PrabalDubey02/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/PrabalDubey02/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0179-largest-number) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PrabalDubey02/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/PrabalDubey02/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/PrabalDubey02/Leetcode/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/0867-transpose-matrix) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/PrabalDubey02/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/PrabalDubey02/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PrabalDubey02/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/PrabalDubey02/Leetcode/tree/master/0089-gray-code) |
 | [0306-additive-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0306-additive-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -674,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/PrabalDubey02/Leetcode/tree/master/0079-word-search) |
 | [0310-minimum-height-trees](https://github.com/PrabalDubey02/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/PrabalDubey02/Leetcode/tree/master/0463-island-perimeter) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrabalDubey02/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
