@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PrabalDubey02/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrabalDubey02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/PrabalDubey02/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/PrabalDubey02/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/PrabalDubey02/Leetcode/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PrabalDubey02/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/PrabalDubey02/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0939-minimum-area-rectangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0939-minimum-area-rectangle) |
 ## Game Theory
 |  |
