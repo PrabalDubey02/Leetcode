@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PrabalDubey02/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0939-minimum-area-rectangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [1140-stone-game-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PrabalDubey02/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/PrabalDubey02/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PrabalDubey02/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/PrabalDubey02/Leetcode/tree/master/1563-stone-game-v) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PrabalDubey02/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0939-minimum-area-rectangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0939-minimum-area-rectangle) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PrabalDubey02/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Game Theory
 |  |
 | ------- |
