@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/PrabalDubey02/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/PrabalDubey02/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0939-minimum-area-rectangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0939-minimum-area-rectangle) |
+| [1096-brace-expansion-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrabalDubey02/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/PrabalDubey02/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0939-minimum-area-rectangle](https://github.com/PrabalDubey02/Leetcode/tree/master/0939-minimum-area-rectangle) |
+| [1096-brace-expansion-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/PrabalDubey02/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/PrabalDubey02/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0940-distinct-subsequences-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrabalDubey02/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrabalDubey02/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/PrabalDubey02/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrabalDubey02/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/PrabalDubey02/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/PrabalDubey02/Leetcode/tree/master/0463-island-perimeter) |
+| [1096-brace-expansion-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrabalDubey02/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PrabalDubey02/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrabalDubey02/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -715,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PrabalDubey02/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/PrabalDubey02/Leetcode/tree/master/0071-simplify-path) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrabalDubey02/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -736,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/PrabalDubey02/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/PrabalDubey02/Leetcode/tree/master/0089-gray-code) |
 | [0306-additive-number](https://github.com/PrabalDubey02/Leetcode/tree/master/0306-additive-number) |
+| [1096-brace-expansion-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrabalDubey02/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
