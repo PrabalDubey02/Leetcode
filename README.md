@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/PrabalDubey02/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/PrabalDubey02/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrabalDubey02/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PrabalDubey02/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrabalDubey02/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/PrabalDubey02/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PrabalDubey02/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/PrabalDubey02/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [1291-sequential-digits](https://github.com/PrabalDubey02/Leetcode/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/PrabalDubey02/Leetcode/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PrabalDubey02/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrabalDubey02/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrabalDubey02/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrabalDubey02/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
